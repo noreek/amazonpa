@@ -74,6 +74,7 @@ type ItemAttributes struct {
 	Creator         string
 	Title           string
 	ListPrice       Price
+	Author		string
 	Manufacturer    string
 	Publisher       string
 	NumberOfItems   int
